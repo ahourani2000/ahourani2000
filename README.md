@@ -10,4 +10,4 @@ I'm passionate about working on projects that reflect my personal interests and 
 
 This repository showcases my latest work in data science and analytics. Thanks for stopping by!
 
-[Resume](Aya-Hourani-Resume.pdf)
+[Resume](https://github.com/ahourani2000/ahourani2000/blob/main/Aya-Hourani-Resume.pdf)
